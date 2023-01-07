@@ -108,3 +108,7 @@ const select = new Select("#select", {
     { value: "Moscow", id: "6" },
   ],
 });
+
+
+
+console.log('aaaaaaaa')
